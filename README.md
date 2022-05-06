@@ -83,3 +83,6 @@ Generation 2:
 - [Getting Started With Jest](https://www.valentinog.com/blog/jest/) 
 - [Testing JavaScript with Jest](https://flaviocopes.com/jest/)
 
+#### Desafio Viernes Relsutado:
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/ce10f95dcc26a911937a/maintainability)](https://codeclimate.com/github/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-iteracion-04-k1d4-m22-t4_reactive-04/maintainability)
